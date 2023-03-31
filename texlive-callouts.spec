@@ -1,6 +1,6 @@
 Name:		texlive-callouts
 Version:	44899
-Release:	1
+Release:	2
 Summary:	Put simple annotations and notes inside a picture
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/callouts
