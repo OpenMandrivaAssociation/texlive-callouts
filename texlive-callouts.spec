@@ -3,7 +3,7 @@ Version:	44899
 Release:	2
 Summary:	Put simple annotations and notes inside a picture
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/callouts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/callouts
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/callouts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/callouts.doc.r%{version}.tar.xz
